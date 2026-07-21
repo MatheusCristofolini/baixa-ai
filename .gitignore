@@ -1,0 +1,16 @@
+# Executáveis compilados e instalador
+BaixaAI.exe
+Setup_BaixaAI.exe
+
+# Dependências binárias externas (não devem ser versionadas no Git)
+ffmpeg.exe
+ffprobe.exe
+yt-dlp.exe
+
+# Configurações locais geradas em tempo de execução
+config.txt
+
+# Pastas temporárias geradas pelo compilador
+Output/
+bin/
+obj/
