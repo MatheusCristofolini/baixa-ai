@@ -1,7 +1,7 @@
 ; Script de instalação do Inno Setup para o Baixa AI
 #define AppName "Baixa AI"
 #define AppVersion "1.0.0"
-#define AppPublisher "Pessoal"
+#define AppPublisher "Macritec Tecnologia"
 #define AppExeName "BaixaAI.exe"
 
 [Setup]

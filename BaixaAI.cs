@@ -9,6 +9,14 @@ using System.Threading;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
+[assembly: System.Reflection.AssemblyCompany("Macritec Tecnologia")]
+[assembly: System.Reflection.AssemblyProduct("Baixa AI")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright © Macritec Tecnologia 2026")]
+[assembly: System.Reflection.AssemblyTitle("Baixa AI - Downloader de Mídias")]
+[assembly: System.Reflection.AssemblyDescription("Interface gráfica para o motor yt-dlp")]
+[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
+[assembly: System.Reflection.AssemblyFileVersion("1.0.0.0")]
+
 namespace BaixaAI
 {
     public enum CustomProgressBarStyle
