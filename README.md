@@ -6,6 +6,17 @@ Interface gráfica (GUI) leve, limpa e moderna para o utilitário de terminal `y
 
 ---
 
+## 📥 Como Baixar o Instalador Pronto
+
+Se você quer apenas instalar e usar o programa imediatamente em qualquer computador (sem precisar compilar o código fonte):
+
+1. Vá para a seção de **[Releases (Versões)](https://github.com/MatheusCristofolini/baixa-ai/releases)** do projeto.
+2. Baixe o arquivo executável **`Setup_BaixaAI.exe`** anexado na versão mais recente.
+3. Você também pode usar este link direto que sempre baixa a versão mais nova:
+   👉 **[Baixar Versão Estável (Setup_BaixaAI.exe)](https://github.com/MatheusCristofolini/baixa-ai/releases/latest/download/Setup_BaixaAI.exe)**
+
+---
+
 ## 🚀 Recursos Principais
 
 - **Visual Moderno (Tema Escuro)**: Interface inspirada em designs premium, com transições suaves e tipografia Segoe UI.
